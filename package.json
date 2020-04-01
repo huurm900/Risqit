@@ -1,5 +1,5 @@
 {
-  "name": "InnSpireTestSessie",
+  "name": "RisqitTestSessie",
   "version": "1.0.0",
   "description": "Cypress demo",
   "main": "index.js",
@@ -12,6 +12,6 @@
   "author": "Henk Huurman",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^4.1.0"
+    "cypress": "^4.3.0"
   }
 }
