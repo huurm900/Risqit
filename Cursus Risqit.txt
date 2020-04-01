@@ -8,14 +8,14 @@
 In order to get the code and install dependencies
 
 ```bash
-git clone
-cd InnSpireTestSessie
+git clone https://github.com/huurm900/Risqit.git
+cd risqit
 npm install
 ```
 
 If necessary, install dependencies inside TodoMVC folder
 ```bash
-cd \InnSpire-tutorial
+cd \risqit-tutorial
 NPX serve
  http://localhost:5000
 ```
